@@ -1,1 +1,69 @@
-/* Write your CSS here! */
+#mainHeading {
+    height: 200px;
+    margin: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    font-size: 60pt;
+    font-weight: bold;
+    color: red;
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMjAwLWV5ZS0wMzQyNzAyLmpwZw.jpg");
+    background-position: center;
+    background-size: 100%;
+}
+article{
+ font-size: 20pt;
+}
+.step{
+    font-size: 30pt;
+}
+body{
+    margin: 8px;
+    display: block;
+    background-color: rgb(204, 168, 227);
+}
+footer{
+    font-size: 7pt
+}
+.funParagraph{
+    color: green;
+}
+#testP{
+    opacity: 0%;
+}
+#testP:hover{
+    opacity: 10%;
+}
+h2{
+    outline: auto;
+    margin-right: 1700px;
+    text-align: center;
+}
+
+
+img{
+    height: 600px;
+    width: max-content;
+}
+span{
+    font-family: sans-serif;
+    font-size: 3rem;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: -4px 4px #ef3550,
+                 -8px 8px #f48fb1,
+                 -12px 12px #7e57c2,
+                 -16px 16px #2196f3,
+                 -20px 20px #26c6da,
+                 -24px 24px #43a047,
+                 -28px 28px #eeff41,
+                 -32px 32px #f9a825,
+                 -36px 36px #ff5722;
+    padding-left: 2%;
+    
+  }
+
+
